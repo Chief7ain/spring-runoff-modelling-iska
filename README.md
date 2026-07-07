@@ -24,7 +24,7 @@
 │   ├── runoff_plugin.py          # Основной класс плагина
 │   ├── runoff_dialog.py          # UI интерфейс (PyQt5)
 │   └── runoff_formulas.py        # Ядро расчетов по методике Калинина
-├── Reference_Data/               # Исходные векторные/растровые слои (опционально)
+├── Reference_Data/               # Исходные векторные/растровые слои 
 │   ├── Landscapes.shp            # Полигоны СФК
 │   ├── Rivers.shp                # Гидрографическая сеть
 │   ├── Catchment_border.shp      # Границы водосбора
