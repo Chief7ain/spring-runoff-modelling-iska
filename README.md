@@ -18,7 +18,7 @@
 ├── Isca_Dump/                # Дамп базы данных (PostgreSQL/PostGIS)
 │   ├── isca_dump.sql             # Полный дамп БД с таблицами и пространственными индексами
 │   └── readme_db.txt             # Инструкция по восстановлению БД
-├── runoff_calc_sfk                 # Исходный код модуля "Runoff Calculator"
+├── runoff_calc_sfk/                 # Исходный код модуля "Runoff Calculator"
 │   ├── __init__.py               # Инициализация плагина
 │   ├── metadata.txt              # Метаданные (версия, автор, зависимости)
 │   ├── runoff_plugin.py          # Основной класс плагина
